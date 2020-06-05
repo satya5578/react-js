@@ -1,0 +1,44 @@
+p{
+	color:black;
+
+}
+
+/*  css  */
+body{
+	background-color:#FFFFFF;
+	
+
+}
+#parent
+{
+	background-color:#C4E7EA;
+	margin: 8%;
+	/*padding:5%*/
+	/*width:10%**/
+	/*text-align:center;*/
+	display: flex;;
+	justify-content:space-between;
+	justify-content:space-around;
+	border-radius:4%
+}
+.child{
+	background-color: #F5FBE4;
+	margin: 4%;
+	width:30%;
+	/*height:25%;*/
+	text-align:center; 
+	border-radius:15%;
+	box-shadow:4px 4px 4px 4px; 
+}
+p{
+   font-size:25px;
+   font-weight:bold;
+   font-style: italic;
+}
+img{
+     border-radius:5%; 
+     width:44%;
+     box-shadow:4px 4px 4px 4px #FFFFFF;
+
+
+}
